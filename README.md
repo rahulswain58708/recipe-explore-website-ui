@@ -7,7 +7,7 @@ It lets users explore different recipes through attractive recipe cards, a moder
 
 ## 🌐 Live Demo
 
-👉 [Add your live link here after deploying (e.g., GitHub Pages / Netlify)]
+👉 [https://recipe-explore-website-ui.vercel.app/)]
 
 ---
 
