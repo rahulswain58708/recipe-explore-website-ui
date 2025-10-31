@@ -32,5 +32,3 @@ It lets users explore different recipes through attractive recipe cards, a moder
 
 ---
 
-## 📁 Folder Structure
-
